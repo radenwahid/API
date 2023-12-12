@@ -1,0 +1,23 @@
+GET http://127.0.0.1:4000
+###
+POST http://127.0.0.1:4000
+Content-Type: application/json
+
+{
+    "name": "pisang",
+    "vitamin":"vitamin A",
+    "kaduluarsa":"5 Hari",
+    "saran penyimpanan":"tempat lembab"
+}
+###
+DELETE  http://127.0.0.1:4000/mangga
+
+###
+PUT http://127.0.0.1:4000
+Content-Type: application/json  
+{
+    "name": "maangga",
+    "vitamin":"vitamin A",
+    "kaduluarsa":"5 Hari",
+    "saran penyimpanan":"tempat lembab"
+}
