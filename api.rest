@@ -16,7 +16,7 @@ DELETE  https://capstone-project-405913.et.r.appspot.com
 PUT https://capstone-project-405913.et.r.appspot.com
 Content-Type: application/json  
 {
-    "name": "maangga",
+    "name": "pisang",
     "vitamin":"vitamin A",
     "kaduluarsa":"5 Hari",
     "saran penyimpanan":"tempat lembab"
