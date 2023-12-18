@@ -16,7 +16,7 @@ DELETE  http://127.0.0.1:4000/mangga
 PUT http://127.0.0.1:4000
 Content-Type: application/json  
 {
-    "name": "maangga",
+    "name": "pisang",
     "vitamin":"vitamin A",
     "kaduluarsa":"5 Hari",
     "saran penyimpanan":"tempat lembab"
