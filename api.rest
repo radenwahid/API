@@ -1,6 +1,6 @@
-GET http://127.0.0.1:4000
+GET https://capstone-project-405913.et.r.appspot.com
 ###
-POST http://127.0.0.1:4000
+POST https://capstone-project-405913.et.r.appspot.com
 Content-Type: application/json
 
 {
@@ -10,10 +10,10 @@ Content-Type: application/json
     "saran penyimpanan":"tempat lembab"
 }
 ###
-DELETE  http://127.0.0.1:4000/mangga
+DELETE  https://capstone-project-405913.et.r.appspot.com
 
 ###
-PUT http://127.0.0.1:4000
+PUT https://capstone-project-405913.et.r.appspot.com
 Content-Type: application/json  
 {
     "name": "maangga",
